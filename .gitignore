@@ -87,3 +87,8 @@ target/
 
 .idea/
 *.diff
+
+
+venv-a3c/*
+/venv-maskrcnn/*
+FasterRCNN/cocoapi/*
