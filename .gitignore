@@ -91,3 +91,5 @@ target/
 
 examples/FasterRCNN/cocoapi/*
 venv-maskrcnn/*
+
+examples/FasterRCNN/cocoapi/*
